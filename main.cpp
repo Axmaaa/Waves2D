@@ -4,7 +4,7 @@
 #include <GL/glut.h>
 #include <GL/gl.h>
 
-#include "waves_consts.hpp"
+#include "waves_constants.hpp"
 #include "waves_structs.hpp"
 
 struct Point points[N_POINTS] = {};
